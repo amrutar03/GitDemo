@@ -8,6 +8,9 @@ public class RESAPITest {
 	public void postJia()
 	{
 		System.out.println("POST JIRA");
+		System.out.println("POST JIRA1");
+		System.out.println("POST JIRA2");
+		System.out.println("POST JIRA3");
 	}
 	@Test
 	public void deleteTwitter()
