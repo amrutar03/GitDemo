@@ -11,6 +11,7 @@ public class RESAPITest {
 		System.out.println("POST JIRA1");
 		System.out.println("POST JIRA2");
 		System.out.println("POST JIRA3");
+		System.out.println("This chanded secondPOST JIRA4");
 	}
 	@Test
 	public void deleteTwitter()
